@@ -1,6 +1,8 @@
 /**
  * @author  breadOnLaptop
  * @date    16th Sep 2026
+ *
+ * SUBMISSION: https://cses.fi/paste/b5f3ce21c43e5a0d11e4d36/
  */
 
 #include <bits/stdc++.h>
