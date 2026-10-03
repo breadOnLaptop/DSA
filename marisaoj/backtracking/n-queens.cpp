@@ -1,6 +1,6 @@
 /**
  * @author  breadOnLaptop
- * @date
+ * @date    3rd Oct 2026
  *
  * PLATFORM: MarisaOJ
  * QUESTION: N Queens
